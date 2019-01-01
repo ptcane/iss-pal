@@ -145,7 +145,7 @@ You should now be presented with a login box next time you visit the site.
 
 If you've used CodePen you may also want to delete the API details, or make it Private if you have a paid account.
 
-###Wrap-up
+### Wrap-up
 
 Hopefully this guide has provided a useful starting point and sparked some ideas for collecting data from a web form and displaying it on an Initial State dashboard! And don't forget the there's also the wonderful worlds of the Waves section of the dashboard and the power of Expressions to explore.
 
